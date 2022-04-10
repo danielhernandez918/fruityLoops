@@ -1,0 +1,12 @@
+.table {
+	border-style: solid;
+	border-color: pink !important;
+	border-width: 15px;
+	width: 200px;
+}
+th {
+	border-color:  pink !important;
+}
+h1 {
+	color: pink;
+}
